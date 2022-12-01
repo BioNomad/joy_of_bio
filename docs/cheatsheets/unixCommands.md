@@ -2,7 +2,7 @@
 
 | command | description | example |
 :----------|:-------------|:----------|
-| ```awk```|print field (organized by $1,$2,$3,etc.) in a file - here we print the third one |```awk '{print $3}' file1``` |
+| ```awk```|print field (organized by \$1,\$2,$3,etc.) in a file - here we print the third one |```awk '{print $3}' file1``` |
 | |print by regular expression - here we print where field 2 is more than field 3 |```awk '$2>$3' file1``` |
 | |print by regular expression - here we print where field 1 is equal to "a" |```awk '$1 == "a" file1``` |
 | ```cal``` | shows the calendar for this month | ```cal``` |
