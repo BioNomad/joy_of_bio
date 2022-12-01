@@ -54,5 +54,5 @@ extra_javascript:
 nav:
     - About : index.md
     - Cheatsheets:
-        - "Unix Commands": docs/cheatsheets/unixCommands.md
-        - "Statistical Tests": docs/cheatsheets/statisticalTests.md
+        - "Unix Commands": cheatsheets/unixCommands.md
+        - "Statistical Tests": cheatsheets/statisticalTests.md
