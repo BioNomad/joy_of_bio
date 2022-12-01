@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+## About The Joy Of Bio
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+My goals with the Joy of Bio are to make Bioinformatics easier. Here I provide my collection of shortcuts and cheatsheets developed by myself and number of other talented bioinformaticians. 
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
