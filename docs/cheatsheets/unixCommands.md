@@ -44,7 +44,6 @@
 
 | command | description | example |
 :----------|:-------------|:----------|
-
 | ```cp``` | copy file (use the -i option to ensure original is kept) | ```cp -i file1 copyfile1``` |
 | | place file in another directory to yours | ```cp -i /home/folder1/subfolder1/file1 ./``` |
 | | place file in your directory into another | ```cp -i file1 /home/folder1/subfolder1/``` |
@@ -66,7 +65,6 @@
 
 | command | description | example |
 :----------|:-------------|:----------|
-
 |```echo```|echo a word to the output|```echo "hello world"```|
 | |echo a variable like your PATH| ```echo $PATH```|
 | |echo possible combinations|```echo {A,G,C,T}{A,G,C,T}```|
@@ -75,7 +73,6 @@
 
 | command | description | example |
 :----------|:-------------|:----------|
-
 | ```find```|finds files matching pattern (in this case all .txt files) in directory | ```find ./ -name "*.txt" print``` |
 | | find all .txt files in home directory |```find "$HOME/" -name "*.txt" print```|
 
