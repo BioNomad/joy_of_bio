@@ -70,4 +70,15 @@ nav:
         - "Unix Commands": unix_slurm/unixCommands.md
     - Statistics:
         - "Statistical Tests": stats/statisticalTests.md
+        - "Math Terms": stats/statisticalTests.md
+    - NGS Processing:
+        - "FASTA/FASTQ": unix_slurm/unixCommands.md
+        - "BAM/SAM": unix_slurm/unixCommands.md
+        - "GFF/VCF": unix_slurm/unixCommands.md
+    - Data Manipulation/Vizualization:
+        - "Data Manipulation": stats/statisticalTests.md
+        - "Statistical Tests": stats/statisticalTests.md
+    - Pipeline Wrappers:
+        - "RNA-Seq Pipelines": stats/statisticalTests.md
+    
         
