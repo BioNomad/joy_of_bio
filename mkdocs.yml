@@ -66,6 +66,8 @@ extra_javascript:
 
 nav:
     - About : index.md
-    - Cheatsheets:
+    - UNIX/SLURM:
         - "Unix Commands": cheatsheets/unixCommands.md
+    - Stats:
         - "Statistical Tests": cheatsheets/statisticalTests.md
+        
